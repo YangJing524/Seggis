@@ -4,7 +4,7 @@
 ![image](./imgs/微信小程序.jpg)
 ### 1. 简介
 Seggis是一个基于Qt的GIS开发平台，提供影像下载服务，影像识别服务，数据保存与集成服务。开源免费，使用简单，性能高效，支持全球影像下载，支持在线批量识别，支持数据保存与集成。
-
+百度网盘：链接:https://pan.baidu.com/s/1ZtwVcLsLypGo5lH6qR9oTw?pwd=5856
 ### 2.开始UI
 ![image](./imgs/start.jpg)
 
