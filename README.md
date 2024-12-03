@@ -1,7 +1,20 @@
 # SeggisV1.0
 声明：版权所有，商用请联系我们。我们也可以帮您做二次开发！欢迎咨询！
+### 下一步开发任务
+- [ ] 基于cesium native改写底层逻辑，加快运行速度 ![](https://progress-bar.xyz/15/?width=100&title=A&progress_color=ff3300)
+- [x] 添加无人机影像、个人影像识别功能 ![](https://progress-bar.xyz/100/?width=100&title=B&progress_color=ff3300)
+- [ ] 完善地理信息空间分析算法与工具 ![](https://progress-bar.xyz/18/?width=100&C&progress_color=ff3300)
+- [ ] 进一步完善功能 ![](https://progress-bar.xyz/50/?width=100&title=D&progress_color=ff3300)
+- [ ] 性能提升 ![](https://progress-bar.xyz/30/?width=100&title=E&progress_color=ff3300)
+- [ ] 进一步推广与使用 ![](https://progress-bar.xyz/0/?width=100&title=F&progress_color=ff3300)
+
+
+
 ### 0. 源码下载地址
+
 ![image](./imgs/微信小程序.jpg)
+
+###### 如果您有兴趣，也可以加入我们的开发，版权与获利归集体共有，但需要缴纳一定费用
 ### 1. 简介
 Seggis是一个基于Qt的GIS开发平台，提供影像下载服务，影像识别服务，数据保存与集成服务。开源免费，使用简单，性能高效，支持全球影像下载，支持在线批量识别，支持数据保存与集成。https://github.com/YangJing524/Seggis
 百度网盘：链接:https://pan.baidu.com/s/1ZtwVcLsLypGo5lH6qR9oTw?pwd=5856
