@@ -1,6 +1,6 @@
 # SeggisV1.0
 声明：版权所有，商用请联系我们。我们也可以帮您做二次开发！欢迎咨询！
-### 下一步开发任务
+### 下一步开发计划与进度
 - [ ] 基于cesium native改写底层逻辑，加快运行速度 ![](https://progress-bar.xyz/15/?width=100&title=A&progress_color=ff3300)
 - [x] 添加无人机影像、个人影像识别功能 ![](https://progress-bar.xyz/100/?width=100&title=B&progress_color=ff3300)
 - [ ] 完善地理信息空间分析算法与工具 ![](https://progress-bar.xyz/18/?width=100&C&progress_color=ff3300)
