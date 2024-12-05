@@ -11,10 +11,9 @@
 
 
 ### 0. 视频地址
-
+![image](./imgs/9817fa4328a0025655f40f58b1bbad8894b3cac5.png)
 https://www.bilibili.com/video/BV1bQi9YeERc?t=2.2
 
-###### 如果您有兴趣，也可以加入我们的开发，版权与获利归集体共有，但需要缴纳一定费用
 ### 1. 简介
 Seggis是一个基于Qt的GIS开发平台，提供影像下载服务，影像识别服务，数据保存与集成服务。开源免费，使用简单，性能高效，支持全球影像下载，支持在线批量识别，支持数据保存与集成。https://github.com/YangJing524/Seggis
 百度网盘：链接:https://pan.baidu.com/s/1ZtwVcLsLypGo5lH6qR9oTw?pwd=5856
